@@ -10,8 +10,8 @@ Throughout this project, I explored and implemented key backend development conc
 - 🔁 Parsing JSON request bodies and returning JSON responses
 - 📡 Sending appropriate HTTP status codes and structured responses
 
-  ## Problem I Faced:
+  ## Why:
   
     At first, I was pretty confused about how the backend and frontend actually communicate. So i got to know http server did the middel work so made
-      one to understand how its happening
+      one to understand how its happening.In process i learnt about stream API,thread,lamda functions,and so on things.
 
