@@ -12,6 +12,6 @@ Throughout this project, I explored and implemented key backend development conc
 
   ## Problem I Faced:
   
-    At first, I was pretty confused about how the backend and frontend actually communicate. It was like they were speaking
- different languages! I kept wondering how data moves between them and how I could connect the two so they work together smoothly.
+    At first, I was pretty confused about how the backend and frontend actually communicate. So i got to know http server did the middel work so made
+      one to understand how its happening
 
